@@ -32,3 +32,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Signature files for debug builds
+oculussig_*
